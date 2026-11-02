@@ -1,4 +1,4 @@
-# CC Global Summit 2015 - Cindy Shin
+# Programming Bootcamp
 
 This is a solution to the [CC Global Summit 2015](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 by Cindy Shin.
@@ -45,12 +45,12 @@ Users should be able to:
 ### Links
 
 - Challenge URL: [https://www.behance.net/gallery/29845175/CC-Global-Summit-2015/](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015/)
-- Live Site URL: [https://mahdisohaily.github.io/Programing-Bootcamp/](https://mahdisohaily.github.io/Programing-Bootcamp/)
+- Live Site URL: [https://mahdirezaeidev.github.io/programming-bootcamp/](https://mahdirezaeidev.github.io/programming-bootcamp/)
 
 ### Setup
 To run this project you have to follow the following steps.
-- `git clone https://github.com/MahdiSohaily/Programing-Bootcamp.git`
-- `cd Programing-Bootcamp`
+- `git clone https://github.com/MahdiRezaeiDev/programming-bootcamp.git`
+- `cd programming-bootcamp`
 - `npm run install`
 - `npm run css-compile`
 - `npm run server`
